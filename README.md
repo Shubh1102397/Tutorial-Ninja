@@ -99,7 +99,7 @@ Actual Result: Expired offers are still visible.
 Summary Report
 Test Execution Summary
 Total Test Cases: 60
-Passed: 48
+Passed: 44
 Failed: 16
 Success Rate: 66.67%
 Key Findings
